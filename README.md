@@ -5,15 +5,15 @@
 - 📫 How to reach me ...
 wx: zzz886885
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzailianlian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzailianlian&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzailianlian&show_icons=true&theme=onedark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzailianlian)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzailianlian)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zzailianlian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=zzailianlian&theme=onedark)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzailianlian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzailianlian&theme=react-dark)
 
 <!---
 zzailianlian/zzailianlian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
