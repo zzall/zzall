@@ -9,11 +9,11 @@ wx: zzz886885
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzailianlian&show_icons=true&theme=onedark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzailianlian)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzailianlian)-->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zzailianlian&theme=onedark)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=zzailianlian&theme=onedark)-->
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzailianlian&theme=react-dark)
+<!-- ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzailianlian&theme=react-dark)-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzailianlian&repo=myPromise)](https://github.com/zzailianlian/myPromise) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzailianlian&repo=backend_cms_mangement)](https://github.com/zzailianlian/backend_cms_mangement)
 
