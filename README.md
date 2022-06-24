@@ -15,7 +15,11 @@ wx: zzz886885
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzailianlian&theme=react-dark)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzailianlian&repo=myPromise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzailianlian&repo=myPromise)](https://github.com/zzailianlian/myPromise)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzailianlian&repo=backend_cms_mangement)](https://github.com/zzailianlian/backend_cms_mangement)
+
+
 
 <!---
 zzailianlian/zzailianlian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
