@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 wx: zzz886885
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzailianlian&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzailianlian&show_icons=true&theme=onedark)
 
 <!---
 zzailianlian/zzailianlian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
