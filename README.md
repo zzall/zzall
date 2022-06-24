@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 wx: zzz886885
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzailianlian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzailianlian&show_icons=true&theme=onedark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzailianlian)](https://git.io/streak-stats)
