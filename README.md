@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 wx: zzz886885
 
++ 开始学习
+- 放弃躺平。。
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzailianlian&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzailianlian&show_icons=true&theme=onedark)
