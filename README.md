@@ -6,8 +6,8 @@
 wx: zzz886885
 
 ```diff
-+ 开始学习
-- 放弃躺平。。
++ 开始学习一丢丢。。
+- 放弃躺平一丢丢。。
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzailianlian&layout=compact)
