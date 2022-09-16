@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Love%20your%20life;enjoy%20your%20step&font=Roboto" />
+
 - 👋 Hi, I’m @zzall
 - 👀 I’m interested in Coding???
 - 🌱 I’m currently learning ts?flutter?python?
