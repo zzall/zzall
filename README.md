@@ -13,7 +13,7 @@ wx: zzz886885
 ![](https://komarev.com/ghpvc/?username=zzall)
 
 <!-- 引用 -->
-<!-- ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord?myquote=love your life,enjoy your step)
 
 <!-- 最常用语言 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzall&layout=compact)
