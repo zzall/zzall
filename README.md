@@ -9,7 +9,7 @@ wx: zzz886885
 + 开始学习一丢丢。。
 - 放弃躺平一丢丢。。
 ```
-# 多少人访问了
+
 ![](https://komarev.com/ghpvc/?username=zzall)
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -18,11 +18,11 @@ wx: zzz886885
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzall&show_icons=true&theme=onedark)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzall)-->
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzall)
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=zzall&theme=onedark)-->
+ ![trophy](https://github-profile-trophy.vercel.app/?username=zzall&theme=onedark)
 
-<!-- ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzall&theme=react-dark)-->
+ ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zzall&theme=react-dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=temperMonkey)](https://github.com/zzall/temperMonkey)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=visualization-mock-server)](https://github.com/zzall/visualization-mock-server)
 
@@ -30,7 +30,7 @@ wx: zzz886885
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,vscode,vite,ts)](https://skillicons.dev)
 
-<!---
+
 zzall/zzall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
