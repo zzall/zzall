@@ -9,6 +9,7 @@ wx: zzz886885
 + 开始学习一丢丢。。
 - 放弃躺平一丢丢。。
 ```
+![](https://komarev.com/ghpvc/?username=zzall)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzailianlian&layout=compact)
 
