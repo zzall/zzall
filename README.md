@@ -12,6 +12,9 @@ wx: zzz886885
 <!-- 多少人访问了 -->
 ![](https://komarev.com/ghpvc/?username=zzall)
 
+<!-- 网站数据卡片 -->
+![](https://stats.justsong.cn/api/juejin?id=3597257776570791)
+
 <!-- 引用 -->
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord?myquote=Love%20your%20life%2C%20enjoy%20your%20step)
 
