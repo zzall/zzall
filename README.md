@@ -9,7 +9,10 @@ wx: zzz886885
 + 开始学习一丢丢。。
 - 放弃躺平一丢丢。。
 ```
+# 多少人访问了
 ![](https://komarev.com/ghpvc/?username=zzall)
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzall&layout=compact)
 
