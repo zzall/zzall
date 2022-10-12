@@ -5,6 +5,7 @@
 - 👀 I’m interested in Coding???
 - 🌱 I’m currently learning ts?flutter?python?
 - 💞️ I’m looking to collaborate on ...
+- ⭐️ My Juejin homepage is https://juejin.cn/user/3597257776570791
 - 📫 How to reach me ...
 wx: zzz886885
 
