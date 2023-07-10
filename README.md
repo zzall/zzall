@@ -39,7 +39,8 @@ wx: zzz886885
 
 
 <!-- 自定义置顶项目 -->
-[![temperMonkey](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=temperMonkey)](https://github.com/zzall/temperMonkey)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=visualization-mock-server)](https://github.com/zzall/visualization-mock-server)
+[![temperMonkey](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=temperMonkey)](https://github.com/zzall/temperMonkey)  [![visualzation-mock-server](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=visualization-mock-server)](https://github.com/zzall/visualization-mock-server)
+[![typora theme](https://github-readme-stats.vercel.app/api/pin/?username=zzall&repo=typora-awesome-green-theme)](https://github.com/zzall/typora-awesome-green-theme)
 
 
 <!-- 活跃贡献图 -->
